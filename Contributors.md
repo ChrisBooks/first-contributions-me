@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [ChrisBooks](https://github.com/ChrisBooks)
 - [suman](https://github.com/sumanghosh13)
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [wfrsk](hhpts://github.com/wfrsk)
